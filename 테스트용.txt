@@ -1,3 +1,9 @@
 아무말이나 적어봅시다...
 
 추가 텍스트 작성후 저장해 봅니다...
+
+오늘 집에가면...
+
+1. GitHub Desktop 설치 
+2. Example_1stRepository Clone 
+3. 집에서 내용수정 후 Commit & Push
